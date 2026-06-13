@@ -1,3 +1,5 @@
+package Basic_Problems;
+
 import java.util.Scanner;
 
 public class Printing{
