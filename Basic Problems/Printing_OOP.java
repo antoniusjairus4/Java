@@ -1,4 +1,4 @@
-package Printing_OOP;
+
 import java.util.Scanner;
 
 class Patient {
@@ -17,7 +17,7 @@ class Patient {
     }
 }
 
-class Main{
+class Printing_OOP{
     public static void main(String[] args){ // correction : 1
         Scanner s = new Scanner (System.in);
         Patient p = new Patient();

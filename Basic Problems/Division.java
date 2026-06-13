@@ -1,6 +1,4 @@
-package Division_in_float;
-
-public class Main {
+public class Division {
     public static void main(String[] args) {
         
     }
