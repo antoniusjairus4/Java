@@ -10,7 +10,7 @@ public class Student_data {
         System.out.printf("Enter your name : ");
         String name = s.nextLine();
 
-        System.out.printf("\n ENter your Reg No : ");
+        System.out.printf("\n Enter your Reg No : ");
         int reg = s.nextInt();
 
         System.out.printf("\n Enter your SGPA of 2nd Sem");
