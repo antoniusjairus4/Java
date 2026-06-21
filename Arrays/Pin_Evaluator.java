@@ -11,5 +11,22 @@ public class Pin_Evaluator {
         for(int i = 0; i < n; i++){
             arr[i] = s.nextInt();
         }
+
+        int odd_count = 0;
+        int even_count = 0;
+        for(int i = 0; i < n; i++){
+            if(arr[i] % 2 == 0){
+                even_count++;
+            }
+
+            else{
+                odd_count++;
+            }
+        }
+
+        System.out.print("Odd count : " + odd_count);
+        System.out.print("Even count : " + even_count);
+
+        s.close();
     }
 }
