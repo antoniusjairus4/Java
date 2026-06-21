@@ -11,7 +11,7 @@ class Number_Triangle{
 
         if(n < 2){
             System.out.print("Invalid input");
-            return;
+            // return;
         }
 
         for(int i = 1; i <= n; i++){

@@ -23,5 +23,7 @@ class Print_two_dim_array{
             } 
             System.out.println();
         }
+
+        s.close();
     }
 }
