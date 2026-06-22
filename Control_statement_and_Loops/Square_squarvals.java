@@ -9,7 +9,6 @@ public class Square_squarvals
 
         if(n < 1){
             System.out.print("Invalid input");
-            return;
         }
         
         int midpoint = (n + 1) / 2;
