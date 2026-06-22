@@ -18,7 +18,8 @@ public class Square_squarvals
             int currentMultiplier;
             if (i <= midpoint) {
                 currentMultiplier = i;
-            } else {
+            } 
+            else {
                 currentMultiplier = n - i + 1;
             }
             
