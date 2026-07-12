@@ -11,7 +11,7 @@ class Row_Col_with_zero{
 
         if(m <= 0 || n <= 0){
             System.out.print("Invalid input");
-            return;
+            // return;
         }
 
         int [][] arr = new int[m][n];
@@ -33,7 +33,7 @@ class Row_Col_with_zero{
 
         if(zero_count != 1){
             System.out.print("Invalid input");
-            return;
+            // return;
         }
 
         for(int i = 0; i < m; i++){
