@@ -28,7 +28,6 @@ class Upper_Lower {
             }
         }
 
-        // These lines will ONLY print if no digits were found
         System.out.println("Uppercase letters: " + upper);
         System.out.println("Lowercase letters: " + lower);
         
